@@ -1,8 +1,12 @@
 # Concurrent Backscatter Communication over WiFi: A Review and Future Perspectives
 
-This is the reproduction code for the Paper "FreeCollision: Parallel decoding for concurrent OFDM-PHY WiFi backscatter communications".
+This repository contains the reproduction code for the Paper "FreeCollision: Parallel decoding for concurrent OFDM-PHY WiFi backscatter communications".
 
 Developed by Weiqi Wu et al. (weiqiwu@ustc.edu.cn), Copyright © 2025 Weiqi Wu et al.
+
+# License
+
+This project is for academic and research use only. Commercial use is prohibited.
 
 # Modification
 
