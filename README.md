@@ -4,6 +4,12 @@ This repository contains the reproduction code for the Paper "FreeCollision: Par
 
 Developed by Weiqi Wu et al. (weiqiwu@ustc.edu.cn), Copyright © 2025 Weiqi Wu et al.
 
+# Code Structure
+
+The code is implemented in a modular manner: the WiFi transmitter first generates excitation signals, which propagate through the transmitter-to-tag channel to the tag. The tag modulates the incident excitation signal, and the modulated signal then propagates through the tag-to-receiver channel to the receiver. The receiver decodes each tag’s data according to the corresponding system design.
+
+# Packet Structure
+
 # License
 
 This project is for academic and research use only. Commercial use is prohibited.
