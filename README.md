@@ -1,4 +1,4 @@
-# A Survey on Concurrent Backscatter Communication over WiFi: Performance Comparison and Future Perspectives
+# A Survey on Concurrent WiFi Backscatter Communication: Performance Comparison and Future Perspectives
 
 This repository contains the reproduction code for the Paper "FreeCollision: Parallel decoding for concurrent OFDM-PHY WiFi backscatter communications".
 
