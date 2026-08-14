@@ -66,6 +66,7 @@ Taking file survey_FreeCollision_Impact_of_backscatter_channel as an example, th
 # Repository Structure
 The repository consists of a funcs folder and executable MATLAB code files (in .m format). The functions in the funcs folder serve as function libraries required to support the execution of the .m files. All .m files can be executed directly in MATLAB R2021a.
 - plot_FreeCollision_published_result_and_reproduced_result.m file corresponds to Fig. 4(a) in the manuscript.
+- plot_ConcurScatter_published_result_and_reproduced_result.m file corresponds to Fig. 4(c) in the manuscript.
 - plot_Mecha_published_result_and_reproduced_result.m file corresponds to Fig. 4(c) in the manuscript.
 - plot_Impact_of_backscatter_channel.m file corresponds to Fig. 5 in the manuscript.
 - plot_Impact_of_WiFi_transceiver_channel.m file corresponds to Fig. 6 in the manuscript.
