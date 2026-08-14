@@ -68,9 +68,11 @@ The repository consists of a funcs folder and executable MATLAB code files (in .
 - plot_FreeCollision_published_result_and_reproduced_result.m file corresponds to Fig. 4(a) in the manuscript.
 - plot_ConcurScatter_published_result_and_reproduced_result.m file corresponds to Fig. 4(c) in the manuscript.
 - plot_Mecha_published_result_and_reproduced_result.m file corresponds to Fig. 4(c) in the manuscript.
-- plot_Impact_of_backscatter_channel.m file corresponds to Fig. 5 in the manuscript.
-- plot_Impact_of_WiFi_transceiver_channel.m file corresponds to Fig. 6 in the manuscript.
-- ...
+- TIOT_plot_Impact_of_backscatter_channel.m file corresponds to Fig. 5 in the manuscript.
+- TIOT_plot_Impact_of_WiFi_transceiver_channel.m file corresponds to Fig. 6 in the manuscript.
+- TIOT_plot_AS.m file corresponds to Fig. 7 in the manuscript.
+- TIOT_plot_dynamic_tag_variation.m file corresponds to Fig. 8 in the manuscript.
+- TIOT_plot_different_configurations.m file corresponds to Fig. 8 in the manuscript.
 - ...
 
 
